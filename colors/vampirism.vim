@@ -16,6 +16,7 @@ let g:colors_name="vampirism"
 hi Normal          ctermfg=0       ctermbg=none    cterm=none
 hi CursorLine      ctermfg=none    ctermbg=7       cterm=none
 hi LineNr          ctermfg=14      ctermbg=7       cterm=none
+hi CursorLineNr    ctermfg=14      ctermbg=7       cterm=none
 
 " -------------------------
 " - Window/Tab delimiters -
