@@ -52,10 +52,10 @@ hi Function        ctermfg=none    ctermbg=none    cterm=none
 " Language constructs
 " --------------------------------
 hi Statement       ctermfg=none    ctermbg=none    cterm=none
-hi Conditional     ctermfg=none    ctermbg=none    cterm=none
-hi Repeat          ctermfg=none    ctermbg=none    cterm=none
+hi Conditional     ctermfg=7       ctermbg=none    cterm=bold
+hi Repeat          ctermfg=7       ctermbg=none    cterm=bold
 hi Label           ctermfg=none    ctermbg=none    cterm=none
-hi Operator        ctermfg=none    ctermbg=none    cterm=none
+hi Operator        ctermfg=7       ctermbg=none    cterm=none
 hi Keyword         ctermfg=7       ctermbg=none    cterm=bold
 hi Exception       ctermfg=none    ctermbg=none    cterm=none
 hi Comment         ctermfg=7       ctermbg=none    cterm=none
