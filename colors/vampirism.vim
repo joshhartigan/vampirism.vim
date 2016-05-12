@@ -59,7 +59,7 @@ hi Label           ctermfg=none    ctermbg=none    cterm=none
 hi Operator        ctermfg=7       ctermbg=none    cterm=none
 hi Keyword         ctermfg=7       ctermbg=none    cterm=none
 hi Exception       ctermfg=none    ctermbg=none    cterm=none
-hi Comment         ctermfg=7       ctermbg=none    cterm=bold
+hi Comment         ctermfg=1       ctermbg=none    cterm=none
 
 hi Special         ctermfg=none    ctermbg=none    cterm=none
 hi SpecialChar     ctermfg=none    ctermbg=none    cterm=none
