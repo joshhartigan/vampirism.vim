@@ -76,7 +76,7 @@ hi Define          ctermfg=9       ctermbg=none    cterm=bold
 hi Macro           ctermfg=9       ctermbg=none    cterm=none
 hi PreCondit       ctermfg=9       ctermbg=none    cterm=none
 
-hi Type            ctermfg=4       ctermbg=none    cterm=none
+hi Type            ctermfg=none    ctermbg=none    cterm=none
 hi StorageClass    ctermfg=none    ctermbg=none    cterm=none
 hi Structure       ctermfg=none    ctermbg=none    cterm=none
 hi Typedef         ctermfg=none    ctermbg=none    cterm=none
