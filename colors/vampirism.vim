@@ -21,13 +21,13 @@ hi CursorLineNr    ctermfg=14      ctermbg=7       cterm=none
 " -------------------------
 " - Window/Tab delimiters -
 " -------------------------
-hi VertSplit       ctermfg=none    ctermbg=none    cterm=reverse
+hi VertSplit       ctermfg=none    ctermbg=none    cterm=none
 
 " -----------------
 " - Prompt/Status -
 " -----------------
-hi StatusLine      ctermfg=14      ctermbg=7       cterm=reverse
-hi StatusLineNC    ctermfg=14      ctermbg=7       cterm=none
+hi StatusLine      ctermfg=0       ctermbg=7       cterm=none
+hi StatusLineNC    ctermfg=250     ctermbg=7       cterm=none
 
 " --------------
 " - Visual aid -
